@@ -25,3 +25,6 @@ logs/
 # OS files
 Thumbs.db
 .DS_Store
+
+# Assignment submission screenshots
+*.png
