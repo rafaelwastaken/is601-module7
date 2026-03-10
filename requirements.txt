@@ -53,4 +53,4 @@ typing_extensions==4.12.2
 tzdata==2025.3
 urllib3==2.6.3
 yarl==1.22.0
-yt-dlp==2025.10.22
+yt-dlp==2026.2.21
